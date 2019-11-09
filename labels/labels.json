@@ -1,0 +1,52 @@
+[
+    { "name": "arch/arm", "color": "#d4c5f9" },
+    { "name": "arch/arm64", "color": "#d4c5f9" },
+    { "name": "arch/x64", "color": "#d4c5f9" },
+    { "name": "arch/x86", "color": "#d4c5f9" },
+
+    { "name": "env/development", "color": "#e99695" },
+    { "name": "env/operations", "color": "#e99695" },
+    { "name": "env/production", "color": "#ee0701" },
+    { "name": "env/staging", "color": "#e99695" },
+
+    { "name": "platform/android", "color": "#bcf5db" },
+    { "name": "platform/iOS", "color": "#bcf5db" },
+    { "name": "platform/linux", "color": "#bcf5db" },
+    { "name": "platform/macOS", "color": "#bcf5db" },
+    { "name": "platform/windows", "color": "#bcf5db" },
+
+    { "name": "priority/critical", "color": "#ee0701" },
+    { "name": "priority/high", "color": "#ee0701" },
+    { "name": "priority/low", "color": "#bfe5bf" },
+    { "name": "priority/medium", "color": "#fbca04" },
+
+    { "name": "resolution/cantReproduce", "color": "#0e8a16" },
+    { "name": "resolution/duplicate", "color": "#0e8a16" },
+    { "name": "resolution/expectedBehavior", "color": "#0e8a16" },
+    { "name": "resolution/fixed", "color": "#0e8a16" },
+    { "name": "resolution/upstreamBug", "color": "#0e8a16" },
+    { "name": "resolution/wontfix", "color": "#0e8a16" },
+
+    { "name": "status/accepted", "color": "#eeeeee" },
+    { "name": "status/available", "color": "#eeeeee" },
+    { "name": "status/blocked", "color": "#eeeeee" },
+    { "name": "status/completed", "color": "#eeeeee" },
+    { "name": "status/confirmed", "color": "#eeeeee" },
+    { "name": "status/infoNeeded", "color": "#eeeeee" },
+    { "name": "status/inProgess", "color": "#eeeeee" },
+    { "name": "status/invalid", "color": "#eeeeee" },
+    { "name": "status/onHold", "color": "#eeeeee" },
+    { "name": "status/pending", "color": "#eeeeee" },
+    { "name": "status/reviewNeeded", "color": "#eeeeee" },
+    { "name": "status/revisionNeeded", "color": "#eeeeee" },
+
+    { "name": "type/bug", "color": "#ee0701" },
+    { "name": "type/documentation", "color": "#cc317c" },
+    { "name": "type/feature", "color": "#84b6eb" },
+    { "name": "type/maintenance", "color": "#84b6eb" },
+    { "name": "type/optimization", "color": "#84b6eb" },
+    { "name": "type/question", "color": "#cc317c" },
+    { "name": "type/rfc", "color": "#cc317c" },
+    { "name": "type/security", "color": "#84b6eb" },
+    { "name": "type/techDebt", "color": "#84b6eb" }
+]
